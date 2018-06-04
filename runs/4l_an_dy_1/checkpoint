@@ -1,0 +1,6 @@
+model_checkpoint_path: "my_traffic_light_model-28"
+all_model_checkpoint_paths: "my_traffic_light_model-24"
+all_model_checkpoint_paths: "my_traffic_light_model-25"
+all_model_checkpoint_paths: "my_traffic_light_model-26"
+all_model_checkpoint_paths: "my_traffic_light_model-27"
+all_model_checkpoint_paths: "my_traffic_light_model-28"
